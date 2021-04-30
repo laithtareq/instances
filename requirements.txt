@@ -60,7 +60,7 @@ soupsieve==2.0.1
 sqlparse==0.3.0
 sympy==1.4
 threadpoolctl==2.1.0
-urllib3==1.25.5
+urllib3==1.25.8
 virtualenv==16.7.5
 virtualenv-clone==0.5.3
 virtualenvwrapper-win==1.2.5
